@@ -1,0 +1,17 @@
+{
+  "name": "anon-palettes",
+  "displayName": "The Anonymous And Sly Pallettes",
+  "description": "Palettes created by Anonymouslyfox",
+  "version": "1.0",
+  "author": { "name": "Anonymouslyfox", "url": "https://twitter.com/FoxusT" },
+  "publisher": "aseprite",
+  "categories": [
+    "Palettes"
+  ],
+  "contributes": {
+    "palettes": [
+      { "id": "SEA-GRASS",          "path": "./seagrass2.gpl" },
+      { "id": "CRAZY-COLOUR-COALLITION",     "path": "./crazycolourcoallition.gpl" }
+    ]
+  }
+}
